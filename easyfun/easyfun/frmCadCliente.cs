@@ -24,5 +24,10 @@ namespace easyfun
             frmCaixa x = new frmCaixa();
             x.Show();
         }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

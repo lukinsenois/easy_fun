@@ -115,16 +115,17 @@
             // 
             // btnCadastrar
             // 
-            this.btnCadastrar.Location = new System.Drawing.Point(450, 315);
+            this.btnCadastrar.Location = new System.Drawing.Point(407, 315);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(132, 43);
             this.btnCadastrar.TabIndex = 8;
             this.btnCadastrar.Text = "Cadastrar";
             this.btnCadastrar.UseVisualStyleBackColor = true;
+            this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
             // btnLimpar
             // 
-            this.btnLimpar.Location = new System.Drawing.Point(631, 315);
+            this.btnLimpar.Location = new System.Drawing.Point(601, 315);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(132, 43);
             this.btnLimpar.TabIndex = 9;

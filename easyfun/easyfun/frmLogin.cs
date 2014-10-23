@@ -45,7 +45,7 @@ namespace easyfun
                 x.Show();
             }
 
-            else if (txtUsuario.Text == "venda" && txtSenha.Text == "venda")
+            else if (txtUsuario.Text == "vendas" && txtSenha.Text == "vendas")
             {
                 this.Hide();
 
