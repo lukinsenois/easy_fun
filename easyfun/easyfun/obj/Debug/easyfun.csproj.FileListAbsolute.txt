@@ -1,0 +1,16 @@
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\bin\Debug\easyfun.exe.config
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\bin\Debug\easyfun.exe
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\bin\Debug\easyfun.pdb
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.csprojResolveAssemblyReference.cache
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmLogin.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.Properties.Resources.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.csproj.GenerateResource.Cache
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.exe
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.pdb
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmCaixa.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmCadCliente.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmCheckIN.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmVendas.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmCaixaVenda.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmCheckOUT.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun\obj\Debug\easyfun.frmCadPulseira.resources

@@ -1,0 +1,2 @@
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun.BLL\obj\Debug\easyfun.BLL.Properties.Resources.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun.BLL\obj\Debug\easyfun.BLL.csproj.GenerateResource.Cache

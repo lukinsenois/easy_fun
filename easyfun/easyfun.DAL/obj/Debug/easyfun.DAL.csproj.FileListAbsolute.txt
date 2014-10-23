@@ -1,0 +1,3 @@
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun.DAL\obj\Debug\easyfun.DAL.csprojResolveAssemblyReference.cache
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun.DAL\obj\Debug\easyfun.DAL.Properties.Resources.resources
+C:\Users\LucasJorge\Desktop\TIG 2.0\sistema\easyfun\easyfun.DAL\obj\Debug\easyfun.DAL.csproj.GenerateResource.Cache
